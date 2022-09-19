@@ -1,0 +1,77 @@
+body {
+        
+    background-image: url("../assets/a.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  }
+  
+  .apresentation{
+    position: relative;
+    top: 50%;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.877);
+    font-weight: bold;
+  }
+  .avatar {
+    border-radius: 50%;       
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 250px;
+    margin: auto;
+    height: 30%;
+    
+  }
+  .a {
+    width: 100px;
+    height: 100px;
+
+  }
+  .b {
+
+    width: 100px;
+    height: 100px;
+    
+
+
+  }
+  
+  .letter {
+    position: absolute;     
+    top: 450px;
+    right: 0;
+    left: 0;
+    bottom: 0px;
+    margin: auto;
+    height: 30%;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    
+  }
+  a {
+    text-decoration: none;
+    color: white;
+
+
+
+  }
+  .midiasocial{
+
+    display: flex;
+    flex-direction: column;
+
+  }
+
+  /*
+
+ajustar a letra em baixo do <p>
+ajeitar a cor do curriclo e fazer bordas na div para parecer um botão
+dsth
+
+  */
